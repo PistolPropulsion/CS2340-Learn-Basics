@@ -6,6 +6,7 @@
  */
 
  apply plugin: 'java'
+ tasks: clean
 
  description 'Practice Gradle Build File'
  version = '1.0'
