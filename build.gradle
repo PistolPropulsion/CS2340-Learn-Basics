@@ -5,5 +5,5 @@
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds/
  */
 
- description: 'Practice Gradle Build File'
+ description 'Practice Gradle Build File'
  version = '1.0'
