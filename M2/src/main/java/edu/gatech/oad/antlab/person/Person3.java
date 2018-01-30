@@ -7,6 +7,7 @@ package edu.gatech.oad.antlab.person;
  *  @author  Yuan Zhang
  *  @version 1.1
  */
+
 public class Person3 {
    /** Holds the persons real name */  
 	private String name;
@@ -42,6 +43,6 @@ public class Person3 {
 	 * @return the reversed string
 	 */
 	private String calc(String input) {
-		return new StringBuilder(input).reverse.toString();
+		return new StringBuilder(input).reverse().toString();
 	}
 }
