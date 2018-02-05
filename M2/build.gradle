@@ -11,7 +11,7 @@ apply plugin: 'java'
 description 'Practice Gradle Build File'
 version = '1.0'
 
-defaultTasks 'clean', 'build'
+defaultTasks 'clean', 'jar'
 
 
 dependencies {
